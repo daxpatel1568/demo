@@ -1,3 +1,3 @@
 # demo
 Fist repository.<br/>
-To learn Git & Github
+To learn about Git & Github
